@@ -1,0 +1,8 @@
+E:\OtherWS\Azure\AzureDemo\BlobStorageDemo\bin\Debug\netstandard2.0\BlobStorageDemo.deps.json
+E:\OtherWS\Azure\AzureDemo\BlobStorageDemo\bin\Debug\netstandard2.0\BlobStorageDemo.dll
+E:\OtherWS\Azure\AzureDemo\BlobStorageDemo\bin\Debug\netstandard2.0\BlobStorageDemo.pdb
+E:\OtherWS\Azure\AzureDemo\BlobStorageDemo\obj\Debug\netstandard2.0\BlobStorageDemo.csprojAssemblyReference.cache
+E:\OtherWS\Azure\AzureDemo\BlobStorageDemo\obj\Debug\netstandard2.0\BlobStorageDemo.AssemblyInfoInputs.cache
+E:\OtherWS\Azure\AzureDemo\BlobStorageDemo\obj\Debug\netstandard2.0\BlobStorageDemo.AssemblyInfo.cs
+E:\OtherWS\Azure\AzureDemo\BlobStorageDemo\obj\Debug\netstandard2.0\BlobStorageDemo.dll
+E:\OtherWS\Azure\AzureDemo\BlobStorageDemo\obj\Debug\netstandard2.0\BlobStorageDemo.pdb
